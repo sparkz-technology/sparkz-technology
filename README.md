@@ -14,22 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi there! 👋
+I'm Sutharsan, a MERN developer from Chennai. Welcome to my GitHub profile!
 
+## About Me
+- 🌱 I’m currently learning web development.
+- 🔭 I’m working on improving my skills as a full-stack developer.
+- 👯 I’m looking to collaborate on interesting web development projects.
+- 💬 Ask me about HTML, CSS, JavaScript, React, Node.js, MongoDB, or anything web-related.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am located in the Milky Way galaxy.
 ###
-
-<p align="left">My name is Sutharsan and I'm a MERN developer from Chennai.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Web dev<br>🎯 Goals: Full stack developer<br>🎲 Fun fact: I am in Milky way galaxy</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
