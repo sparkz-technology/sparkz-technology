@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h6 align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Web dev<br>🎯 Goals: Full stack developer<br>🎲 Fun fact: I am in Milky way galaxy</h6>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Web dev<br>🎯 Goals: Full stack developer<br>🎲 Fun fact: I am in Milky way galaxy</p>
 
 ###
 
