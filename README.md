@@ -64,7 +64,9 @@ I'm Sutharsan, a MERN developer from Chennai. Welcome to my GitHub profile!
 ###
 
 <div align="left">
- [![LinkedIn](https://raw.githubusercontent.com/sutharsan-g/assets/main/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/sutharsan-g-web-dev)]
+ <a href="https://www.linkedin.com/in/sutharsan-g-web-dev">
+  <img src="assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+     </a> 
 
   <a href="mailto:sutharsang.webdev@gmail.com">
   <img src="assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
