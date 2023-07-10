@@ -76,3 +76,17 @@ I'm Sutharsan, a MERN developer from Chennai. Welcome to my GitHub profile!
 
 ###
 
+## Technologies and Tools I Use
+- HTML5
+- CSS3
+- JavaScript
+- jQuery
+- React
+- Bootstrap
+- Node.js
+- Express.js
+- MongoDB
+- Linux
+- Git
+- Python
+- Visual Studio Code
