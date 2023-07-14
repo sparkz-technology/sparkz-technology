@@ -80,5 +80,7 @@ I'm Sutharsan, a MERN developer from Chennai. Welcome to my GitHub profile!
 </div>
 
 ###
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sutharsan-g-web-dev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sutharsan-g-web-dev?trk=profile-badge">Sutharsan G</a></div>
+              
 
