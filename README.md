@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hi there! 👋
 # I'm Sutharsan, 
-<p> a MERN developer from Chennai. Welcome to my GitHub profile!</p>
+- a MERN developer from Chennai. Welcome to my GitHub profile!
 
 ## About Me
 - 🌱 I’m currently learning web development.
