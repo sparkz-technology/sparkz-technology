@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there! 👋
+ Hi there! 👋
 # I'm Sutharsan. 
 ##  MERN developer from Chennai. Welcome to my GitHub profile!
 
