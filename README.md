@@ -20,15 +20,13 @@ Here are some ideas to get you started:
 
 ## About Me
 - 🌱 I’m currently learning web development.
-- 🔭 I’m working on improving my skills as a full-stack developer.
+- 🧠 I’m working on improving my skills as a full-stack developer.
 - 👯 I’m looking to collaborate on interesting web development projects.
 - 💬 Ask me about HTML, CSS, JavaScript, React, Node.js, MongoDB, or anything web-related.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am located in the Milky Way galaxy.
 ###
 <h2 align="left">I code with</h2>
-
-<img src-"https://profile-counter.glitch.me/sparkz-technology/count.svg? />
 
 
 
