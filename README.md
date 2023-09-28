@@ -66,4 +66,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=sparkz-technology&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 
 ###
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ufc75a52nzh3a7pm625e4edefm&unique={true|1|on|yes})
 
