@@ -1,20 +1,24 @@
- Hi there! 👋
-# I'm Sutharsan. 
-##  MERN developer from Chennai. Welcome to my GitHub profile!
+Hi there! 👋
+
+# I'm Sutharsan.
+
+## MERN developer from Chennai. Welcome to my GitHub profile!
 
 ## About Me
+
 - 🌱 I’m currently learning web development.
 - 🧠 I’m working on improving my skills as a full-stack developer.
 - 👯 I’m looking to collaborate on interesting web development projects.
 - 💬 Ask me about HTML, CSS, JavaScript, React, Node.js, MongoDB, or anything web-related.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am located in the Milky Way galaxy.
+
 ###
+
 <h2 align="left">I code with</h2>
 
-
-
 ###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -64,7 +68,7 @@
 <div align="left">
  <a href="https://www.linkedin.com/in/sutharsan-g-web-dev">
   <img src="assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo."  />
-     </a> 
+     </a>
 
   <a href="mailto:sutharsang.webdev@gmail.com">
   <img src="assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
@@ -72,7 +76,15 @@
 </div>
 
 ###
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=sparkz-technology&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 
-###
-
+<style>
+  body {
+    background-color: #1a1a1a;
+    color: #fff;
+  }
+  a {
+    color: #fff;
+  }
+</style>
