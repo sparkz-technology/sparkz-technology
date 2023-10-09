@@ -78,10 +78,3 @@ Hi there! 👋
 ###
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sparkz-technology&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
-
-<style>
-  body {
-    background-color: #202020;
-    color: #fff;
-  }
-</style>
