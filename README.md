@@ -66,7 +66,7 @@ Hi there! 👋
 ###
 
 <div align="left">
- <a href="https://www.linkedin.com/in/sutharsan-g-web-dev" style="color: #ccc;">
+ <a href="www.linkedin.com/in/sutharsang" style="color: #ccc;">
   <img src="assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo." style="filter: invert(1);" />
      </a>
 
