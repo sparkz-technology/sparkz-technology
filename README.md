@@ -11,7 +11,7 @@ Hi there! 👋
 - 👯 I’m looking to collaborate on interesting web development projects.
 - 💬 Ask me about HTML, CSS, JavaScript, React, Node.js, MongoDB, or anything web-related.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am located in the Milky Way galaxy.
+- ⚡ Fun fact: I am located in the Milky Way Galaxy.
 
 ###
 
