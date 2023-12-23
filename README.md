@@ -4,6 +4,8 @@ Hi there! 👋
 
 ## MERN developer from Chennai. Welcome to my GitHub profile!
 
+[![](https://visitcount.itsvg.in/api?id=sparkz-technology&label=Profile%20Views&color=9&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
 ## About Me
 
 - 🌱 I’m currently learning web development.
