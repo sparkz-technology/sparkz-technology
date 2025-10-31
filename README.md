@@ -1,90 +1,106 @@
-Hi there! 👋
+# 👋 Hey, I'm **Sutharsan**
 
-# I'm Sutharsan.
+### Full-Stack MERN Developer • Micro-Frontend Architect • Chennai, India
 
-## MERN developer from Chennai. Welcome to my GitHub profile!
+---
 
-## About Me
+## 🚀 About Me
 
-- 🌱 I’m currently learning web development.
-- 🧠 I’m working on improving my skills as a full-stack developer.
-- 👯 I’m looking to collaborate on interesting web development projects.
-- 💬 Ask me about HTML, CSS, JavaScript, React, Node.js, MongoDB, or anything web-related.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am located in the Milky Way galaxy.
+I’m a passionate **full-stack developer** specializing in **web development, scalable infra, and micro-frontends**.
 
-###
+I build:
 
-<h2 align="left">I code with</h2>
+- ⚡ High-performance apps (React, Next.js, Node.js)
+- 🧱 Production-ready micro-frontends (React, Next.js, Vite)
+- ☁️ Cloud-deployed, dockerized architectures
+- 🔧 Clean, maintainable full-stack systems
+- 🖼️ Scalable shared UI component libraries
 
-###
+I enjoy shipping practical systems end-to-end — frontend, backend, infra.
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+---
+
+# 🧰 Tech Stack & Tools
+
+## **Frontend**
+<div>
+  <img src="https://skillicons.dev/icons?i=html" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40"/>
+  <img src="https://skillicons.dev/icons?i=redux" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vite" height="40"/>
 </div>
 
-###
+---
 
-<h2 align="left">📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:</h2>
-
-###
-
-<div align="left">
- <a href="https://www.linkedin.com/in/sutharsan-g-web-dev">
-  <img src="assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo."  />
-     </a>
-
-  <a href="mailto:sutharsang.webdev@gmail.com">
-  <img src="assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+## **Backend & Databases**
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
+  <img src="https://skillicons.dev/icons?i=express" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
+  <img src="https://skillicons.dev/icons?i=supabase" height="40"/>
+  <img src="https://skillicons.dev/icons?i=redis" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="40"/>
 </div>
 
-###
+---
+
+## **DevOps & Tools**
+<div>
+  <img src="https://skillicons.dev/icons?i=linux" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vercel" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
+</div>
+
+---
+
+# 🧠 Micro-Frontends & Architecture
+
+I specialize in:
+
+✅ Module Federation  
+✅ React + Next.js MFEs  
+✅ Shared UI libraries  
+✅ Vite/Rspack micro-frontend setups  
+✅ Distributed deployment (Render, Azure, Docker)  
+✅ Scalable full-stack architecture patterns  
+
+---
+
+# 🌱 Currently Exploring
+
+- High-performance micro-frontend architecture
+- Real-time streaming pipelines
+- Event-driven microservices
+- Distributed system design
+- Frontend performance optimization
+
+---
+
+# 📫 Connect With Me
+
+<div>
+ <a href="https://www.linkedin.com/in/sutharsang">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+ </a>
+ <a href="mailto:sutharsang.webdev@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+ </a>
+</div>
+
+---
+
+# 🔥 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sparkz-technology&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
-
-<style>
-  body {
-    background-color: #1a1a1a;
-    color: #fff;
-  }
-  a {
-    color: #fff;
-  }
-</style>
