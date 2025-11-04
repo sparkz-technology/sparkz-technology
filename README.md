@@ -20,6 +20,15 @@ I enjoy shipping practical systems end-to-end — frontend, backend, infra.
 
 ---
 
+## 🚀 Discord Presence
+
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/YOUR_DISCORD_ID_HERE?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/YOUR_DISCORD_ID_HERE)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/YOUR_DISCORD_ID_HERE)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/YOUR_DISCORD_ID_HERE)](https://dev.discordprofiles.me/openspotify/YOUR_DISCORD_ID_HERE)
+
+---
+
 # 🧰 Tech Stack & Tools
 
 ## **Frontend**
@@ -101,6 +110,17 @@ I specialize in:
 
 ---
 
-# 🔥 GitHub Stats
+## ⚡ GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sparkz-technology&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
+<details>
+  <summary>📊 Click to expand</summary><br>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sparkz-technology&theme=blueberry&count_private=true&hide_border=true&line_height=22" />
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparkz-technology&layout=compact&theme=blueberry&hide_border=true" />
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=sparkz-technology&theme=blueberry&hide_border=true" />
+  </p>
+
+</details>
