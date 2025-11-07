@@ -40,7 +40,6 @@ I enjoy shipping practical systems end-to-end — frontend, backend, infra.
   <img src="https://skillicons.dev/icons?i=react" height="40"/>
   <img src="https://skillicons.dev/icons?i=nextjs" height="40"/>
   <img src="https://skillicons.dev/icons?i=redux" height="40"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/>
   <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
   <img src="https://skillicons.dev/icons?i=vite" height="40"/>
 </div>
@@ -82,7 +81,7 @@ I specialize in:
 ✅ React + Next.js MFEs  
 ✅ Shared UI libraries  
 ✅ Vite/Rspack micro-frontend setups  
-✅ Distributed deployment (Render, Azure, Docker)  
+✅ Distributed deployment (Render, Vercel, Docker)  
 ✅ Scalable full-stack architecture patterns  
 
 ---
